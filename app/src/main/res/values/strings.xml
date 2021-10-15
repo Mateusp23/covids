@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Corona</string>
+
+    <string name="tv_date_item">Data:</string>
+    <string name="tv_suspect_item">Suspeitos:</string>
+    <string name="btn_back_details">Voltar</string>
+    <string name="tv_deads">Mortes:</string>
+    <string name="tv_confirmed_hospital">Confirmados no \nhospital:</string>
+    <string name="tv_suspects">Suspeitos:</string>
+    <string name="tv_confirmed">Confirmados:</string>
+    <string name="tv_descarted">Descartados:</string>
+    <string name="tv_monitoring">Monitoramento:</string>
+    <string name="tv_cured">Curados:</string>
+    <string name="tv_isolation_house">Suspeitos em casa:</string>
+    <string name="tv_isolation_hospital">Suspeitos no\nhospital:</string>
+</resources>

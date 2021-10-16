@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Corona-Virus</string>
+    <string name="tv_isolation_hospital">Suspects in hospital:</string>
+    <string name="tv_isolation_house">Suspects at home:</string>
+    <string name="tv_cured">Cured:</string>
+    <string name="tv_monitoring">Monitoring:</string>
+    <string name="tv_descarted">Discarded:</string>
+    <string name="tv_confirmed">Confirmed:</string>
+    <string name="tv_suspects">hospital:</string>
+    <string name="tv_confirmed_hospital">Confirmed in</string>
+    <string name="tv_deads">Deaths:</string>
+    <string name="btn_back_details">Come back</string>
+    <string name="tv_suspect_item">Suspects:</string>
+    <string name="tv_date_item">Date:</string>
+</resources>

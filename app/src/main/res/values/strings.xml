@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Corona</string>
+    <string name="app_name">Corona-Virus</string>
 
     <string name="tv_date_item">Data:</string>
     <string name="tv_suspect_item">Suspeitos:</string>
